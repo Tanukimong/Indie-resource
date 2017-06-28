@@ -1,6 +1,14 @@
 # Indie-resource
 1인 인디 게임 개발자를 위한 무료 게임 리소스 모음, 리소스 자체를 공유하는 것이 아니라 무료 리소스를 구할 수 있는 곳을 정리하여 공유합니다.
 
+## 0. 목차
+1. 이미지
+2. 3D 모델
+3. 음악
+4. 스크립트
+5. 툴
+6. 기타
+
 ## 1. 이미지
 #### 1.1 [Open Pixel Project(OPP)](http://www.openpixelproject.com/)
 ![Open Pixel Project(OPP)](/image/opp.png)
